@@ -1,0 +1,5 @@
+#surefire
+#Fri Jun 21 13:59:16 CEST 2013
+user.dir=/home/chris/workspace/PoiEventTestDriver
+localRepository=/home/chris/.m2/repository
+basedir=/home/chris/workspace/PoiEventTestDriver

@@ -1,0 +1,16 @@
+de/htw_berlin/f4/ai/kbe/appconfig/ShortMessageServiceJpaConfig.class
+de/htw_berlin/aStudent/repository/AbstractRepository.class
+de/htw_berlin/aStudent/repository/MessageRepositoryImpl.class
+de/htw_berlin/aStudent/service/AnApplicationService.class
+de/htw_berlin/aStudent/model/UserIntern.class
+de/htw_berlin/aStudent/repository/TopicRepository.class
+de/htw_berlin/aStudent/model/TopicIntern.class
+de/htw_berlin/f4/ai/kbe/kurznachrichten/App.class
+de/htw_berlin/aStudent/service/AnApplicationServiceImpl.class
+de/htw_berlin/aStudent/repository/UserRepositoryImpl.class
+de/htw_berlin/aStudent/repository/UserRepository.class
+de/htw_berlin/f4/ai/kbe/kurznachrichten/ShortMessageServiceImpl.class
+de/htw_berlin/aStudent/model/MessageIntern.class
+de/htw_berlin/aStudent/repository/MessageRepository.class
+de/htw_berlin/aStudent/repository/TopicRepositoryImpl.class
+de/htw_berlin/f4/ai/kbe/appconfig/AppConfig.class
